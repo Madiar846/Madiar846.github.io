@@ -1,0 +1,453 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo {
+    color: #fff;
+    font-size: 26px;
+    line-height: 60px;
+    padding-left: 192px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 430px;
+}
+
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    padding-left: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background: url(../img/boy.png) 100% 100%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
+}
+
+.title_container {
+    float: left;
+    margin: 270px 0px 0px 150px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title_container h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title_container h4 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+}
+
+.title_container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #79818d;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px;
+}
+
+.about {
+    width: 100%;
+    height: 65%;
+    background: url(../img/boyII.png) center no-repeat, url(../img/fonbg.png);
+    background-position: top;
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 250px;
+    color: #717883;
+}
+
+.heading2 {
+    padding: 70px;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about input {
+    height: 30px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #79818d;
+    font-size: 13px;
+    padding: 1px 20px;
+    margin: 30px 50px auto 310px;
+}
+
+.Download {
+    position: relative;
+    left: 314px;
+    top: -23px;
+}
+
+.Skills {
+    width: 100%;
+    height: 75%;
+    background: url(../img/fonbg1.jpg) no-repeat;
+    padding: 100px;
+}
+
+.OneSkills {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+    text-align: center;
+    height: 170px;
+}
+
+.WebDesign {
+    float: left;
+    padding-left: 200px;
+    margin-right: 200px;
+}
+
+.Development {
+    float: left;
+    margin-right: 200px;
+}
+
+.SEOOptimization {
+    float: left;
+    margin-right: 200px;
+}
+
+.Marketing {
+    float: left;
+    margin-right: 10px;
+}
+
+.text {
+    text-align: left;
+    padding-top: 70px;
+}
+
+.text1 {
+    padding-left: 190px;
+    margin-right: 85px;
+    float: left;
+}
+
+.text2 {
+    margin-right: 85px;
+    float: left;
+}
+
+.text3 {
+    margin-right: 85px;
+    float: left;
+}
+
+.text4 {
+    margin-right: 15px;
+    float: left;
+}
+
+.Case {
+    padding-top: 70px;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.CaseText {
+    text-align: center;
+    font-size: 15px;
+}
+
+.Case_Container {
+    background: url(../img/Photo.jpg) no-repeat, url(../img/Layer2.png);
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    padding-top: 500px;
+}
+
+.Client {
+    float: left;
+    padding-left: 290px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.VLS {
+    width: 100%;
+    height: 100%;
+    background: url(../img/Rectangle.png) no-repeat;
+}
+
+.MainCost {
+    width: 100%;
+    height: 70%;
+}
+
+.CostCalculation {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.SiteType {
+    padding-left: 300px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.DESIGN {
+    padding-left: 300px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.ADAPTABILITY {
+    padding-left: 300px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.Timing {
+    padding-left: 300px;
+    font-size: 25px;
+    margin-top: 30px;
+    float: left;
+}
+
+.mainStatistics {
+    width: 100%;
+    height: 60%;
+    background: url(../img/fonbg2.png) center/cover no-repeat;
+}
+
+.STATISTICS {
+    font-size: 22px;
+    padding-top: 90px;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+    text-align: center;
+}
+
+.StatisticsBlock {
+    padding: 90px;
+}
+
+.Smile {
+    float: left;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.Brackets {
+    float: left;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.CheckMark {
+    float: left;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Cup {
+    float: left;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+.StatisticsText {
+    float: left;
+    padding-left: 230px;
+    color: #323e4f;
+    font-size: 20px;
+}
+
+.Happyclients {
+    float: left;
+    margin-right: 90px;
+}
+
+.Hoursofwork {
+    float: left;
+    margin-right: 160px;
+}
+
+.Projectscompleted {
+    float: left;
+    margin-right: 60px;
+}
+
+.Awardsreceived {
+    float: left;
+    margin-right: 10px;
+}
+
+.mainREVIEWS {
+    width: 100%;
+    height: 80%;
+    background: url(../img/Layer5.jpg)
+}
+
+.REVIEWS {
+    font-size: 22px;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.Photo1 {
+    padding-top: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+.Padding {
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.Michael {
+    font-size: 17px;
+    color: #243042;
+    padding-top: 20px;
+    padding-left: 500px;
+}
+
+.big {
+    font-weight: bold;
+}
+
+.radio {
+    padding-left: 650px;
+    padding-top: 60px;
+}
+
+.maincontacts {
+    width: 100%;
+    height: 100%;
+    background: url(../img/fonbg3.jpg) no-repeat;
+    color: #ffffff;
+}
+
+.Mycontacts {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #d17700;
+}
+
+.PreFooter {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.PreFooter1 {
+    padding-left: 422px;
+}
+
+.Geo {
+    float: left;
+    margin-right: 220px;
+}
+
+.envelope {
+    float: left;
+    margin-right: 220px;
+}
+
+.Telephone {
+    float: left;
+}
+
+.TextFooter {
+    float: left;
+    padding-left: 370px;
+}
+
+.StPetersburg {
+    float: left;
+    margin-right: 90px;
+}
+
+.gmail {
+    float: left;
+    margin-right: 110px;
+}
+
+.Phonenumber {
+    float: left;
+}
+
+.FinalyEnd {
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.input1 {
+    padding-top: 60px;
+}
+
+.input2 {
+    float: left;
+    padding-left: 480px;
+}
+
+.input3 {
+    float: left;
+    margin-left: 40px;
+}
+
+.textarea {
+    padding-left: 560px;
+    padding-top: 50px;
+}
+
+.containerinput5 {
+    padding: 10px 82px 10px;
+    margin: 14px 0px 0px 45px;
+    border: 2px solid #6d7682;
+    padding-left: 21px;
+    background: none;
+    color: #79818d;
+    font-size: 13px;
+    border-radius: 5px;
+    margin-right: 675px;
+}
+
+
