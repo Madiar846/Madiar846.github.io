@@ -121,51 +121,53 @@ nav {
     height: 170px;
 }
 
+.img {
+    padding-left: 225px;
+}
+
 .WebDesign {
     float: left;
-    padding-left: 200px;
-    margin-right: 200px;
+    margin-right: 180px;
 }
 
 .Development {
     float: left;
-    margin-right: 200px;
+    margin-right: 180px;
 }
 
 .SEOOptimization {
     float: left;
-    margin-right: 200px;
+    margin-right: 180px;
 }
 
 .Marketing {
     float: left;
-    margin-right: 10px;
 }
 
 .text {
-    text-align: left;
+    padding-left: 160px;
+    text-align: center;
     padding-top: 70px;
+    font-size: 15.58px;
 }
 
 .text1 {
-    padding-left: 190px;
-    margin-right: 85px;
     float: left;
 }
 
 .text2 {
-    margin-right: 85px;
     float: left;
+    margin-left: 40px;
 }
 
 .text3 {
-    margin-right: 85px;
     float: left;
+    margin-left: 40px;
 }
 
 .text4 {
-    margin-right: 15px;
     float: left;
+    margin-left: 60px;
 }
 
 .Case {
@@ -178,6 +180,7 @@ nav {
 }
 
 .CaseText {
+    padding-top: 30px;
     text-align: center;
     font-size: 15px;
 }
@@ -195,12 +198,16 @@ nav {
     padding-left: 290px;
     margin-right: 50px;
     font-size: 20px;
+    height: 100%;
 }
 
 .VLS {
-    width: 100%;
-    height: 100%;
+    width: 400%;
+    height: 400px;
     background: url(../img/Rectangle.png) no-repeat;
+    color: #ffffff;
+    padding-left: 24px;
+    padding-top: 13px;
 }
 
 .MainCost {
@@ -241,6 +248,18 @@ nav {
     float: left;
 }
 
+.hr {
+    border: 2px solid #d1d1d1
+}
+
+.Timing1 {
+    padding-left: 670px;
+}
+
+.Timing2 {
+    padding-left: 616px;
+}
+
 .mainStatistics {
     width: 100%;
     height: 60%;
@@ -257,57 +276,68 @@ nav {
 
 .StatisticsBlock {
     padding: 90px;
+    padding-left: 290px;
 }
 
 .Smile {
     float: left;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 190px;
 }
 
 .Brackets {
     float: left;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 190px;
 }
 
 .CheckMark {
     float: left;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 190px;
 }
 
 .Cup {
     float: left;
-    margin-right: 10px;
-    margin-left: 30px;
 }
 
 .StatisticsText {
-    float: left;
+    text-align: center;
     padding-left: 230px;
     color: #323e4f;
-    font-size: 20px;
+    font-size: 16.67px;
+}
+
+.BIG1 {
+    font-size: 37.75px;
+}
+
+.BIG2 {
+    font-size: 37.75px;
+}
+
+.BIG3 {
+    font-size: 37.75px;
+}
+
+.BIG4 {
+    font-size: 37.75px;
 }
 
 .Happyclients {
     float: left;
-    margin-right: 90px;
+    margin-right: 110px;
 }
 
 .Hoursofwork {
     float: left;
-    margin-right: 160px;
+    margin-right: 110px;
 }
 
 .Projectscompleted {
     float: left;
-    margin-right: 60px;
+    margin-right: 110px;
 }
 
 .Awardsreceived {
     float: left;
-    margin-right: 10px;
 }
 
 .mainREVIEWS {
@@ -358,6 +388,7 @@ nav {
     height: 100%;
     background: url(../img/fonbg3.jpg) no-repeat;
     color: #ffffff;
+    display: block;
 }
 
 .Mycontacts {
@@ -399,6 +430,7 @@ nav {
 }
 
 .StPetersburg {
+    text-align: center;
     float: left;
     margin-right: 90px;
 }
@@ -421,26 +453,30 @@ nav {
 
 .input1 {
     padding-top: 60px;
+
 }
 
 .input2 {
-    float: left;
-    padding-left: 480px;
+
 }
 
 .input3 {
     float: left;
+    padding-left: 450px;
+    margin-right: 40px;
     margin-left: 40px;
+
 }
 
 .textarea {
-    padding-left: 560px;
+    padding-left: 300px;
     padding-top: 50px;
+
 }
 
 .containerinput5 {
     padding: 10px 82px 10px;
-    margin: 14px 0px 0px 45px;
+    margin: 14px 0px 0px 320px;
     border: 2px solid #6d7682;
     padding-left: 21px;
     background: none;
@@ -448,6 +484,5 @@ nav {
     font-size: 13px;
     border-radius: 5px;
     margin-right: 675px;
+
 }
-
-
